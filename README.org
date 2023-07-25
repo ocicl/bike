@@ -1,0 +1,10 @@
+* bike
+
+Common Lisp .Net Core Interop
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/Lovesan/bike.git   |
+| commit  | e386615  |
+| systems | bike |
+|---------+-------------------------------------------|
+
