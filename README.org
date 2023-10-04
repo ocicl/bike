@@ -4,6 +4,6 @@ Common Lisp .Net Core Interop
 
 |---------+-----------------------------------------|
 | source  | git:https://github.com/Lovesan/bike.git |
-| commit  | 080c482                                 |
+| commit  | 5237aa0                                 |
 | systems | bike                                    |
 |---------+-----------------------------------------|
