@@ -1,9 +1,10 @@
 * bike
 
-Common Lisp .Net Core Interop
+.NET interop library for Common Lisp.
 
 |---------+-----------------------------------------|
 | source  | git:https://github.com/Lovesan/bike.git |
 | commit  | cb7e693                                 |
 | systems | bike                                    |
 |---------+-----------------------------------------|
+
